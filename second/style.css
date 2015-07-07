@@ -1,0 +1,28 @@
+body {
+	background-color: rgb(80,227,194);
+	margin: 0px;
+}
+
+.left {
+	background-color: rgb(74,144,226);
+	height: 1000px;
+	width: 33%;
+	float: left;
+	margin: 0px;
+}
+
+.right {
+	background-color: rgb(184,233,134);
+	height: 700px;
+	width: 33%;
+	float: right;
+	margin: 0px;
+}
+
+.placeholder {
+	height: 300px;
+	width: 33%;
+	float: right;
+	clear: right;
+	margin: 0px;
+}
